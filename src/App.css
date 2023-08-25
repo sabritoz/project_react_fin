@@ -204,11 +204,11 @@ nav h1{
   position: fixed;
 }
 .cardt{position: relative;}
-.card button{
+.cardt button{
   position: absolute;
   bottom: 0;
   right: 0;
-  margin: 1vh;
+  margin: 10vh;
   border: none;
   background-color: red;
   border-radius: 2000px; 
